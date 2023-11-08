@@ -1,0 +1,4 @@
+.vscode/
+.DS_Store
+
+# Don't upload anything bigger than 100MB
